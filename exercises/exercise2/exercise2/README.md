@@ -19,3 +19,8 @@ Web refer: https://docs.flutter.dev/platform-integration/web/building
 
 
 ### web(Chrome)
+<img width="1199" alt="image" src="https://github.com/lydiavitani1994/INFO6350_002138509_YumengHuang/assets/113256029/069eb379-2edd-4b54-8f27-54c0224c3819">
+<img width="1199" alt="image" src="https://github.com/lydiavitani1994/INFO6350_002138509_YumengHuang/assets/113256029/a6aa52f8-dfd7-4245-aa42-160f5e339f6d">
+
+<img width="497" alt="image" src="https://github.com/lydiavitani1994/INFO6350_002138509_YumengHuang/assets/113256029/ea121f09-1202-48b8-84a1-ae6e2d1230da">
+<img width="497" alt="image" src="https://github.com/lydiavitani1994/INFO6350_002138509_YumengHuang/assets/113256029/85fe8f0b-a124-42b8-9ad9-7c144307947d">
