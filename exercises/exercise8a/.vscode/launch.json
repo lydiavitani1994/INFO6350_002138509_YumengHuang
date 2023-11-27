@@ -1,0 +1,3428 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "dartpad_codelabs",
+            "cwd": "flutter-codelabs/dartpad_codelabs",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "dartpad_codelabs (profile mode)",
+            "cwd": "flutter-codelabs/dartpad_codelabs",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "dartpad_codelabs (release mode)",
+            "cwd": "flutter-codelabs/dartpad_codelabs",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "deeplink_cookbook",
+            "cwd": "flutter-codelabs/deeplink_cookbook",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "deeplink_cookbook (profile mode)",
+            "cwd": "flutter-codelabs/deeplink_cookbook",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "deeplink_cookbook (release mode)",
+            "cwd": "flutter-codelabs/deeplink_cookbook",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_03",
+            "cwd": "flutter-codelabs/adaptive_app/step_03",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_03 (profile mode)",
+            "cwd": "flutter-codelabs/adaptive_app/step_03",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_03 (release mode)",
+            "cwd": "flutter-codelabs/adaptive_app/step_03",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_04",
+            "cwd": "flutter-codelabs/adaptive_app/step_04",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_04 (profile mode)",
+            "cwd": "flutter-codelabs/adaptive_app/step_04",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_04 (release mode)",
+            "cwd": "flutter-codelabs/adaptive_app/step_04",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_05",
+            "cwd": "flutter-codelabs/adaptive_app/step_05",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_05 (profile mode)",
+            "cwd": "flutter-codelabs/adaptive_app/step_05",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_05 (release mode)",
+            "cwd": "flutter-codelabs/adaptive_app/step_05",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_06",
+            "cwd": "flutter-codelabs/adaptive_app/step_06",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_06 (profile mode)",
+            "cwd": "flutter-codelabs/adaptive_app/step_06",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_06 (release mode)",
+            "cwd": "flutter-codelabs/adaptive_app/step_06",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_07",
+            "cwd": "flutter-codelabs/adaptive_app/step_07",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_07 (profile mode)",
+            "cwd": "flutter-codelabs/adaptive_app/step_07",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_07 (release mode)",
+            "cwd": "flutter-codelabs/adaptive_app/step_07",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_03",
+            "cwd": "flutter-codelabs/animated-responsive-layout/step_03",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_03 (profile mode)",
+            "cwd": "flutter-codelabs/animated-responsive-layout/step_03",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_03 (release mode)",
+            "cwd": "flutter-codelabs/animated-responsive-layout/step_03",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_04",
+            "cwd": "flutter-codelabs/animated-responsive-layout/step_04",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_04 (profile mode)",
+            "cwd": "flutter-codelabs/animated-responsive-layout/step_04",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_04 (release mode)",
+            "cwd": "flutter-codelabs/animated-responsive-layout/step_04",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_05",
+            "cwd": "flutter-codelabs/animated-responsive-layout/step_05",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_05 (profile mode)",
+            "cwd": "flutter-codelabs/animated-responsive-layout/step_05",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_05 (release mode)",
+            "cwd": "flutter-codelabs/animated-responsive-layout/step_05",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_06",
+            "cwd": "flutter-codelabs/animated-responsive-layout/step_06",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_06 (profile mode)",
+            "cwd": "flutter-codelabs/animated-responsive-layout/step_06",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_06 (release mode)",
+            "cwd": "flutter-codelabs/animated-responsive-layout/step_06",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_07",
+            "cwd": "flutter-codelabs/animated-responsive-layout/step_07",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_07 (profile mode)",
+            "cwd": "flutter-codelabs/animated-responsive-layout/step_07",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_07 (release mode)",
+            "cwd": "flutter-codelabs/animated-responsive-layout/step_07",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_08",
+            "cwd": "flutter-codelabs/animated-responsive-layout/step_08",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_08 (profile mode)",
+            "cwd": "flutter-codelabs/animated-responsive-layout/step_08",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_08 (release mode)",
+            "cwd": "flutter-codelabs/animated-responsive-layout/step_08",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "final",
+            "cwd": "flutter-codelabs/boring_to_beautiful/final",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "final (profile mode)",
+            "cwd": "flutter-codelabs/boring_to_beautiful/final",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "final (release mode)",
+            "cwd": "flutter-codelabs/boring_to_beautiful/final",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_01",
+            "cwd": "flutter-codelabs/boring_to_beautiful/step_01",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_01 (profile mode)",
+            "cwd": "flutter-codelabs/boring_to_beautiful/step_01",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_01 (release mode)",
+            "cwd": "flutter-codelabs/boring_to_beautiful/step_01",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_02",
+            "cwd": "flutter-codelabs/boring_to_beautiful/step_02",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_02 (profile mode)",
+            "cwd": "flutter-codelabs/boring_to_beautiful/step_02",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_02 (release mode)",
+            "cwd": "flutter-codelabs/boring_to_beautiful/step_02",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_03",
+            "cwd": "flutter-codelabs/boring_to_beautiful/step_03",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_03 (profile mode)",
+            "cwd": "flutter-codelabs/boring_to_beautiful/step_03",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_03 (release mode)",
+            "cwd": "flutter-codelabs/boring_to_beautiful/step_03",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_04",
+            "cwd": "flutter-codelabs/boring_to_beautiful/step_04",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_04 (profile mode)",
+            "cwd": "flutter-codelabs/boring_to_beautiful/step_04",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_04 (release mode)",
+            "cwd": "flutter-codelabs/boring_to_beautiful/step_04",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_05",
+            "cwd": "flutter-codelabs/boring_to_beautiful/step_05",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_05 (profile mode)",
+            "cwd": "flutter-codelabs/boring_to_beautiful/step_05",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_05 (release mode)",
+            "cwd": "flutter-codelabs/boring_to_beautiful/step_05",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_06",
+            "cwd": "flutter-codelabs/boring_to_beautiful/step_06",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_06 (profile mode)",
+            "cwd": "flutter-codelabs/boring_to_beautiful/step_06",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_06 (release mode)",
+            "cwd": "flutter-codelabs/boring_to_beautiful/step_06",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_07",
+            "cwd": "flutter-codelabs/boring_to_beautiful/step_07",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_07 (profile mode)",
+            "cwd": "flutter-codelabs/boring_to_beautiful/step_07",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_07 (release mode)",
+            "cwd": "flutter-codelabs/boring_to_beautiful/step_07",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_03",
+            "cwd": "flutter-codelabs/brick_breaker/step_03",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_03 (profile mode)",
+            "cwd": "flutter-codelabs/brick_breaker/step_03",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_03 (release mode)",
+            "cwd": "flutter-codelabs/brick_breaker/step_03",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_04",
+            "cwd": "flutter-codelabs/brick_breaker/step_04",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_04 (profile mode)",
+            "cwd": "flutter-codelabs/brick_breaker/step_04",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_04 (release mode)",
+            "cwd": "flutter-codelabs/brick_breaker/step_04",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_05",
+            "cwd": "flutter-codelabs/brick_breaker/step_05",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_05 (profile mode)",
+            "cwd": "flutter-codelabs/brick_breaker/step_05",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_05 (release mode)",
+            "cwd": "flutter-codelabs/brick_breaker/step_05",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_06",
+            "cwd": "flutter-codelabs/brick_breaker/step_06",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_06 (profile mode)",
+            "cwd": "flutter-codelabs/brick_breaker/step_06",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_06 (release mode)",
+            "cwd": "flutter-codelabs/brick_breaker/step_06",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_07",
+            "cwd": "flutter-codelabs/brick_breaker/step_07",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_07 (profile mode)",
+            "cwd": "flutter-codelabs/brick_breaker/step_07",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_07 (release mode)",
+            "cwd": "flutter-codelabs/brick_breaker/step_07",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_08",
+            "cwd": "flutter-codelabs/brick_breaker/step_08",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_08 (profile mode)",
+            "cwd": "flutter-codelabs/brick_breaker/step_08",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_08 (release mode)",
+            "cwd": "flutter-codelabs/brick_breaker/step_08",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_09",
+            "cwd": "flutter-codelabs/brick_breaker/step_09",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_09 (profile mode)",
+            "cwd": "flutter-codelabs/brick_breaker/step_09",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_09 (release mode)",
+            "cwd": "flutter-codelabs/brick_breaker/step_09",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_10",
+            "cwd": "flutter-codelabs/brick_breaker/step_10",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_10 (profile mode)",
+            "cwd": "flutter-codelabs/brick_breaker/step_10",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_10 (release mode)",
+            "cwd": "flutter-codelabs/brick_breaker/step_10",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_00",
+            "cwd": "flutter-codelabs/cupertino_store/step_00",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_00 (profile mode)",
+            "cwd": "flutter-codelabs/cupertino_store/step_00",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_00 (release mode)",
+            "cwd": "flutter-codelabs/cupertino_store/step_00",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_01",
+            "cwd": "flutter-codelabs/cupertino_store/step_01",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_01 (profile mode)",
+            "cwd": "flutter-codelabs/cupertino_store/step_01",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_01 (release mode)",
+            "cwd": "flutter-codelabs/cupertino_store/step_01",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_02",
+            "cwd": "flutter-codelabs/cupertino_store/step_02",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_02 (profile mode)",
+            "cwd": "flutter-codelabs/cupertino_store/step_02",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_02 (release mode)",
+            "cwd": "flutter-codelabs/cupertino_store/step_02",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_03",
+            "cwd": "flutter-codelabs/cupertino_store/step_03",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_03 (profile mode)",
+            "cwd": "flutter-codelabs/cupertino_store/step_03",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_03 (release mode)",
+            "cwd": "flutter-codelabs/cupertino_store/step_03",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_04",
+            "cwd": "flutter-codelabs/cupertino_store/step_04",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_04 (profile mode)",
+            "cwd": "flutter-codelabs/cupertino_store/step_04",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_04 (release mode)",
+            "cwd": "flutter-codelabs/cupertino_store/step_04",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_05",
+            "cwd": "flutter-codelabs/cupertino_store/step_05",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_05 (profile mode)",
+            "cwd": "flutter-codelabs/cupertino_store/step_05",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_05 (release mode)",
+            "cwd": "flutter-codelabs/cupertino_store/step_05",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_06",
+            "cwd": "flutter-codelabs/cupertino_store/step_06",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_06 (profile mode)",
+            "cwd": "flutter-codelabs/cupertino_store/step_06",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_06 (release mode)",
+            "cwd": "flutter-codelabs/cupertino_store/step_06",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_03",
+            "cwd": "flutter-codelabs/dart-patterns-and-records/step_03",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_03 (profile mode)",
+            "cwd": "flutter-codelabs/dart-patterns-and-records/step_03",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_03 (release mode)",
+            "cwd": "flutter-codelabs/dart-patterns-and-records/step_03",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_04",
+            "cwd": "flutter-codelabs/dart-patterns-and-records/step_04",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_04 (profile mode)",
+            "cwd": "flutter-codelabs/dart-patterns-and-records/step_04",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_04 (release mode)",
+            "cwd": "flutter-codelabs/dart-patterns-and-records/step_04",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_05",
+            "cwd": "flutter-codelabs/dart-patterns-and-records/step_05",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_05 (profile mode)",
+            "cwd": "flutter-codelabs/dart-patterns-and-records/step_05",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_05 (release mode)",
+            "cwd": "flutter-codelabs/dart-patterns-and-records/step_05",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_06_a",
+            "cwd": "flutter-codelabs/dart-patterns-and-records/step_06_a",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_06_a (profile mode)",
+            "cwd": "flutter-codelabs/dart-patterns-and-records/step_06_a",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_06_a (release mode)",
+            "cwd": "flutter-codelabs/dart-patterns-and-records/step_06_a",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_06_b",
+            "cwd": "flutter-codelabs/dart-patterns-and-records/step_06_b",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_06_b (profile mode)",
+            "cwd": "flutter-codelabs/dart-patterns-and-records/step_06_b",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_06_b (release mode)",
+            "cwd": "flutter-codelabs/dart-patterns-and-records/step_06_b",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_07_a",
+            "cwd": "flutter-codelabs/dart-patterns-and-records/step_07_a",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_07_a (profile mode)",
+            "cwd": "flutter-codelabs/dart-patterns-and-records/step_07_a",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_07_a (release mode)",
+            "cwd": "flutter-codelabs/dart-patterns-and-records/step_07_a",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_07_b",
+            "cwd": "flutter-codelabs/dart-patterns-and-records/step_07_b",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_07_b (profile mode)",
+            "cwd": "flutter-codelabs/dart-patterns-and-records/step_07_b",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_07_b (release mode)",
+            "cwd": "flutter-codelabs/dart-patterns-and-records/step_07_b",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_08",
+            "cwd": "flutter-codelabs/dart-patterns-and-records/step_08",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_08 (profile mode)",
+            "cwd": "flutter-codelabs/dart-patterns-and-records/step_08",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_08 (release mode)",
+            "cwd": "flutter-codelabs/dart-patterns-and-records/step_08",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_09",
+            "cwd": "flutter-codelabs/dart-patterns-and-records/step_09",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_09 (profile mode)",
+            "cwd": "flutter-codelabs/dart-patterns-and-records/step_09",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_09 (release mode)",
+            "cwd": "flutter-codelabs/dart-patterns-and-records/step_09",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_10",
+            "cwd": "flutter-codelabs/dart-patterns-and-records/step_10",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_10 (profile mode)",
+            "cwd": "flutter-codelabs/dart-patterns-and-records/step_10",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_10 (release mode)",
+            "cwd": "flutter-codelabs/dart-patterns-and-records/step_10",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_11_a",
+            "cwd": "flutter-codelabs/dart-patterns-and-records/step_11_a",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_11_a (profile mode)",
+            "cwd": "flutter-codelabs/dart-patterns-and-records/step_11_a",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_11_a (release mode)",
+            "cwd": "flutter-codelabs/dart-patterns-and-records/step_11_a",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_11_b",
+            "cwd": "flutter-codelabs/dart-patterns-and-records/step_11_b",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_11_b (profile mode)",
+            "cwd": "flutter-codelabs/dart-patterns-and-records/step_11_b",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_11_b (release mode)",
+            "cwd": "flutter-codelabs/dart-patterns-and-records/step_11_b",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_12",
+            "cwd": "flutter-codelabs/dart-patterns-and-records/step_12",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_12 (profile mode)",
+            "cwd": "flutter-codelabs/dart-patterns-and-records/step_12",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_12 (release mode)",
+            "cwd": "flutter-codelabs/dart-patterns-and-records/step_12",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_03",
+            "cwd": "flutter-codelabs/ffigen_codelab/step_03",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_03 (profile mode)",
+            "cwd": "flutter-codelabs/ffigen_codelab/step_03",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_03 (release mode)",
+            "cwd": "flutter-codelabs/ffigen_codelab/step_03",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_05",
+            "cwd": "flutter-codelabs/ffigen_codelab/step_05",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_05 (profile mode)",
+            "cwd": "flutter-codelabs/ffigen_codelab/step_05",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_05 (release mode)",
+            "cwd": "flutter-codelabs/ffigen_codelab/step_05",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_06",
+            "cwd": "flutter-codelabs/ffigen_codelab/step_06",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_06 (profile mode)",
+            "cwd": "flutter-codelabs/ffigen_codelab/step_06",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_06 (release mode)",
+            "cwd": "flutter-codelabs/ffigen_codelab/step_06",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_07",
+            "cwd": "flutter-codelabs/ffigen_codelab/step_07",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_07 (profile mode)",
+            "cwd": "flutter-codelabs/ffigen_codelab/step_07",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_07 (release mode)",
+            "cwd": "flutter-codelabs/ffigen_codelab/step_07",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "complete",
+            "cwd": "flutter-codelabs/firebase-auth-flutterfire-ui/complete",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "complete (profile mode)",
+            "cwd": "flutter-codelabs/firebase-auth-flutterfire-ui/complete",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "complete (release mode)",
+            "cwd": "flutter-codelabs/firebase-auth-flutterfire-ui/complete",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "start",
+            "cwd": "flutter-codelabs/firebase-auth-flutterfire-ui/start",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "start (profile mode)",
+            "cwd": "flutter-codelabs/firebase-auth-flutterfire-ui/start",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "start (release mode)",
+            "cwd": "flutter-codelabs/firebase-auth-flutterfire-ui/start",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "complete",
+            "cwd": "flutter-codelabs/firebase-emulator-suite/complete",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "complete (profile mode)",
+            "cwd": "flutter-codelabs/firebase-emulator-suite/complete",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "complete (release mode)",
+            "cwd": "flutter-codelabs/firebase-emulator-suite/complete",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "start",
+            "cwd": "flutter-codelabs/firebase-emulator-suite/start",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "start (profile mode)",
+            "cwd": "flutter-codelabs/firebase-emulator-suite/start",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "start (release mode)",
+            "cwd": "flutter-codelabs/firebase-emulator-suite/start",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_02",
+            "cwd": "flutter-codelabs/firebase-get-to-know-flutter/step_02",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_02 (profile mode)",
+            "cwd": "flutter-codelabs/firebase-get-to-know-flutter/step_02",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_02 (release mode)",
+            "cwd": "flutter-codelabs/firebase-get-to-know-flutter/step_02",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_04",
+            "cwd": "flutter-codelabs/firebase-get-to-know-flutter/step_04",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_04 (profile mode)",
+            "cwd": "flutter-codelabs/firebase-get-to-know-flutter/step_04",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_04 (release mode)",
+            "cwd": "flutter-codelabs/firebase-get-to-know-flutter/step_04",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_05",
+            "cwd": "flutter-codelabs/firebase-get-to-know-flutter/step_05",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_05 (profile mode)",
+            "cwd": "flutter-codelabs/firebase-get-to-know-flutter/step_05",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_05 (release mode)",
+            "cwd": "flutter-codelabs/firebase-get-to-know-flutter/step_05",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_06",
+            "cwd": "flutter-codelabs/firebase-get-to-know-flutter/step_06",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_06 (profile mode)",
+            "cwd": "flutter-codelabs/firebase-get-to-know-flutter/step_06",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_06 (release mode)",
+            "cwd": "flutter-codelabs/firebase-get-to-know-flutter/step_06",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_07",
+            "cwd": "flutter-codelabs/firebase-get-to-know-flutter/step_07",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_07 (profile mode)",
+            "cwd": "flutter-codelabs/firebase-get-to-know-flutter/step_07",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_07 (release mode)",
+            "cwd": "flutter-codelabs/firebase-get-to-know-flutter/step_07",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_09",
+            "cwd": "flutter-codelabs/firebase-get-to-know-flutter/step_09",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_09 (profile mode)",
+            "cwd": "flutter-codelabs/firebase-get-to-know-flutter/step_09",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_09 (release mode)",
+            "cwd": "flutter-codelabs/firebase-get-to-know-flutter/step_09",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "finished_game",
+            "cwd": "flutter-codelabs/flame-building-doodle-dash/finished_game",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "finished_game (profile mode)",
+            "cwd": "flutter-codelabs/flame-building-doodle-dash/finished_game",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "finished_game (release mode)",
+            "cwd": "flutter-codelabs/flame-building-doodle-dash/finished_game",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_02",
+            "cwd": "flutter-codelabs/flame-building-doodle-dash/step_02",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_02 (profile mode)",
+            "cwd": "flutter-codelabs/flame-building-doodle-dash/step_02",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_02 (release mode)",
+            "cwd": "flutter-codelabs/flame-building-doodle-dash/step_02",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_03",
+            "cwd": "flutter-codelabs/flame-building-doodle-dash/step_03",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_03 (profile mode)",
+            "cwd": "flutter-codelabs/flame-building-doodle-dash/step_03",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_03 (release mode)",
+            "cwd": "flutter-codelabs/flame-building-doodle-dash/step_03",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_04",
+            "cwd": "flutter-codelabs/flame-building-doodle-dash/step_04",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_04 (profile mode)",
+            "cwd": "flutter-codelabs/flame-building-doodle-dash/step_04",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_04 (release mode)",
+            "cwd": "flutter-codelabs/flame-building-doodle-dash/step_04",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_05",
+            "cwd": "flutter-codelabs/flame-building-doodle-dash/step_05",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_05 (profile mode)",
+            "cwd": "flutter-codelabs/flame-building-doodle-dash/step_05",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_05 (release mode)",
+            "cwd": "flutter-codelabs/flame-building-doodle-dash/step_05",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_06",
+            "cwd": "flutter-codelabs/flame-building-doodle-dash/step_06",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_06 (profile mode)",
+            "cwd": "flutter-codelabs/flame-building-doodle-dash/step_06",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_06 (release mode)",
+            "cwd": "flutter-codelabs/flame-building-doodle-dash/step_06",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_07",
+            "cwd": "flutter-codelabs/flame-building-doodle-dash/step_07",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_07 (profile mode)",
+            "cwd": "flutter-codelabs/flame-building-doodle-dash/step_07",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_07 (release mode)",
+            "cwd": "flutter-codelabs/flame-building-doodle-dash/step_07",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_08",
+            "cwd": "flutter-codelabs/flame-building-doodle-dash/step_08",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_08 (profile mode)",
+            "cwd": "flutter-codelabs/flame-building-doodle-dash/step_08",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_08 (release mode)",
+            "cwd": "flutter-codelabs/flame-building-doodle-dash/step_08",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_03",
+            "cwd": "flutter-codelabs/github-client/step_03",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_03 (profile mode)",
+            "cwd": "flutter-codelabs/github-client/step_03",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_03 (release mode)",
+            "cwd": "flutter-codelabs/github-client/step_03",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_04",
+            "cwd": "flutter-codelabs/github-client/step_04",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_04 (profile mode)",
+            "cwd": "flutter-codelabs/github-client/step_04",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_04 (release mode)",
+            "cwd": "flutter-codelabs/github-client/step_04",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_05",
+            "cwd": "flutter-codelabs/github-client/step_05",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_05 (profile mode)",
+            "cwd": "flutter-codelabs/github-client/step_05",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_05 (release mode)",
+            "cwd": "flutter-codelabs/github-client/step_05",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_06",
+            "cwd": "flutter-codelabs/github-client/step_06",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_06 (profile mode)",
+            "cwd": "flutter-codelabs/github-client/step_06",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_06 (release mode)",
+            "cwd": "flutter-codelabs/github-client/step_06",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_07",
+            "cwd": "flutter-codelabs/github-client/step_07",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_07 (profile mode)",
+            "cwd": "flutter-codelabs/github-client/step_07",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_07 (release mode)",
+            "cwd": "flutter-codelabs/github-client/step_07",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "window_to_front",
+            "cwd": "flutter-codelabs/github-client/window_to_front",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "window_to_front (profile mode)",
+            "cwd": "flutter-codelabs/github-client/window_to_front",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "window_to_front (release mode)",
+            "cwd": "flutter-codelabs/github-client/window_to_front",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_3",
+            "cwd": "flutter-codelabs/google-maps-in-flutter/step_3",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_3 (profile mode)",
+            "cwd": "flutter-codelabs/google-maps-in-flutter/step_3",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_3 (release mode)",
+            "cwd": "flutter-codelabs/google-maps-in-flutter/step_3",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_4",
+            "cwd": "flutter-codelabs/google-maps-in-flutter/step_4",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_4 (profile mode)",
+            "cwd": "flutter-codelabs/google-maps-in-flutter/step_4",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_4 (release mode)",
+            "cwd": "flutter-codelabs/google-maps-in-flutter/step_4",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_5",
+            "cwd": "flutter-codelabs/google-maps-in-flutter/step_5",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_5 (profile mode)",
+            "cwd": "flutter-codelabs/google-maps-in-flutter/step_5",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_5 (release mode)",
+            "cwd": "flutter-codelabs/google-maps-in-flutter/step_5",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "finished",
+            "cwd": "flutter-codelabs/haiku_generator/finished",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "finished (profile mode)",
+            "cwd": "flutter-codelabs/haiku_generator/finished",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "finished (release mode)",
+            "cwd": "flutter-codelabs/haiku_generator/finished",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step0",
+            "cwd": "flutter-codelabs/haiku_generator/step0",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step0 (profile mode)",
+            "cwd": "flutter-codelabs/haiku_generator/step0",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step0 (release mode)",
+            "cwd": "flutter-codelabs/haiku_generator/step0",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step1",
+            "cwd": "flutter-codelabs/haiku_generator/step1",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step1 (profile mode)",
+            "cwd": "flutter-codelabs/haiku_generator/step1",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step1 (release mode)",
+            "cwd": "flutter-codelabs/haiku_generator/step1",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step2",
+            "cwd": "flutter-codelabs/haiku_generator/step2",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step2 (profile mode)",
+            "cwd": "flutter-codelabs/haiku_generator/step2",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step2 (release mode)",
+            "cwd": "flutter-codelabs/haiku_generator/step2",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step3",
+            "cwd": "flutter-codelabs/haiku_generator/step3",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step3 (profile mode)",
+            "cwd": "flutter-codelabs/haiku_generator/step3",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step3 (release mode)",
+            "cwd": "flutter-codelabs/haiku_generator/step3",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_03",
+            "cwd": "flutter-codelabs/homescreen_codelab/step_03",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_03 (profile mode)",
+            "cwd": "flutter-codelabs/homescreen_codelab/step_03",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_03 (release mode)",
+            "cwd": "flutter-codelabs/homescreen_codelab/step_03",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_04",
+            "cwd": "flutter-codelabs/homescreen_codelab/step_04",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_04 (profile mode)",
+            "cwd": "flutter-codelabs/homescreen_codelab/step_04",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_04 (release mode)",
+            "cwd": "flutter-codelabs/homescreen_codelab/step_04",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_05",
+            "cwd": "flutter-codelabs/homescreen_codelab/step_05",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_05 (profile mode)",
+            "cwd": "flutter-codelabs/homescreen_codelab/step_05",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_05 (release mode)",
+            "cwd": "flutter-codelabs/homescreen_codelab/step_05",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_06",
+            "cwd": "flutter-codelabs/homescreen_codelab/step_06",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_06 (profile mode)",
+            "cwd": "flutter-codelabs/homescreen_codelab/step_06",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_06 (release mode)",
+            "cwd": "flutter-codelabs/homescreen_codelab/step_06",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_03",
+            "cwd": "flutter-codelabs/namer/step_03",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_03 (profile mode)",
+            "cwd": "flutter-codelabs/namer/step_03",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_03 (release mode)",
+            "cwd": "flutter-codelabs/namer/step_03",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_04_a_widget",
+            "cwd": "flutter-codelabs/namer/step_04_a_widget",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_04_a_widget (profile mode)",
+            "cwd": "flutter-codelabs/namer/step_04_a_widget",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_04_a_widget (release mode)",
+            "cwd": "flutter-codelabs/namer/step_04_a_widget",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_04_b_behavior",
+            "cwd": "flutter-codelabs/namer/step_04_b_behavior",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_04_b_behavior (profile mode)",
+            "cwd": "flutter-codelabs/namer/step_04_b_behavior",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_04_b_behavior (release mode)",
+            "cwd": "flutter-codelabs/namer/step_04_b_behavior",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_05_a_pair",
+            "cwd": "flutter-codelabs/namer/step_05_a_pair",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_05_a_pair (profile mode)",
+            "cwd": "flutter-codelabs/namer/step_05_a_pair",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_05_a_pair (release mode)",
+            "cwd": "flutter-codelabs/namer/step_05_a_pair",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_05_b_extract",
+            "cwd": "flutter-codelabs/namer/step_05_b_extract",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_05_b_extract (profile mode)",
+            "cwd": "flutter-codelabs/namer/step_05_b_extract",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_05_b_extract (release mode)",
+            "cwd": "flutter-codelabs/namer/step_05_b_extract",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_05_c_card_padding",
+            "cwd": "flutter-codelabs/namer/step_05_c_card_padding",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_05_c_card_padding (profile mode)",
+            "cwd": "flutter-codelabs/namer/step_05_c_card_padding",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_05_c_card_padding (release mode)",
+            "cwd": "flutter-codelabs/namer/step_05_c_card_padding",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_05_d_theme",
+            "cwd": "flutter-codelabs/namer/step_05_d_theme",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_05_d_theme (profile mode)",
+            "cwd": "flutter-codelabs/namer/step_05_d_theme",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_05_d_theme (release mode)",
+            "cwd": "flutter-codelabs/namer/step_05_d_theme",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_05_e_text_style",
+            "cwd": "flutter-codelabs/namer/step_05_e_text_style",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_05_e_text_style (profile mode)",
+            "cwd": "flutter-codelabs/namer/step_05_e_text_style",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_05_e_text_style (release mode)",
+            "cwd": "flutter-codelabs/namer/step_05_e_text_style",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_05_f_accessibility",
+            "cwd": "flutter-codelabs/namer/step_05_f_accessibility",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_05_f_accessibility (profile mode)",
+            "cwd": "flutter-codelabs/namer/step_05_f_accessibility",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_05_f_accessibility (release mode)",
+            "cwd": "flutter-codelabs/namer/step_05_f_accessibility",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_05_g_center_vertical",
+            "cwd": "flutter-codelabs/namer/step_05_g_center_vertical",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_05_g_center_vertical (profile mode)",
+            "cwd": "flutter-codelabs/namer/step_05_g_center_vertical",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_05_g_center_vertical (release mode)",
+            "cwd": "flutter-codelabs/namer/step_05_g_center_vertical",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_05_h_center_horizontal",
+            "cwd": "flutter-codelabs/namer/step_05_h_center_horizontal",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_05_h_center_horizontal (profile mode)",
+            "cwd": "flutter-codelabs/namer/step_05_h_center_horizontal",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_05_h_center_horizontal (release mode)",
+            "cwd": "flutter-codelabs/namer/step_05_h_center_horizontal",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_05_i_optional_changes",
+            "cwd": "flutter-codelabs/namer/step_05_i_optional_changes",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_05_i_optional_changes (profile mode)",
+            "cwd": "flutter-codelabs/namer/step_05_i_optional_changes",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_05_i_optional_changes (release mode)",
+            "cwd": "flutter-codelabs/namer/step_05_i_optional_changes",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_06_a_business_logic",
+            "cwd": "flutter-codelabs/namer/step_06_a_business_logic",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_06_a_business_logic (profile mode)",
+            "cwd": "flutter-codelabs/namer/step_06_a_business_logic",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_06_a_business_logic (release mode)",
+            "cwd": "flutter-codelabs/namer/step_06_a_business_logic",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_06_b_add_row",
+            "cwd": "flutter-codelabs/namer/step_06_b_add_row",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_06_b_add_row (profile mode)",
+            "cwd": "flutter-codelabs/namer/step_06_b_add_row",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_06_b_add_row (release mode)",
+            "cwd": "flutter-codelabs/namer/step_06_b_add_row",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_06_c_add_like_button",
+            "cwd": "flutter-codelabs/namer/step_06_c_add_like_button",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_06_c_add_like_button (profile mode)",
+            "cwd": "flutter-codelabs/namer/step_06_c_add_like_button",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_06_c_add_like_button (release mode)",
+            "cwd": "flutter-codelabs/namer/step_06_c_add_like_button",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_07_a_split_my_home_page",
+            "cwd": "flutter-codelabs/namer/step_07_a_split_my_home_page",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_07_a_split_my_home_page (profile mode)",
+            "cwd": "flutter-codelabs/namer/step_07_a_split_my_home_page",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_07_a_split_my_home_page (release mode)",
+            "cwd": "flutter-codelabs/namer/step_07_a_split_my_home_page",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_07_b_convert_to_stateful",
+            "cwd": "flutter-codelabs/namer/step_07_b_convert_to_stateful",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_07_b_convert_to_stateful (profile mode)",
+            "cwd": "flutter-codelabs/namer/step_07_b_convert_to_stateful",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_07_b_convert_to_stateful (release mode)",
+            "cwd": "flutter-codelabs/namer/step_07_b_convert_to_stateful",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_07_c_add_selectedindex",
+            "cwd": "flutter-codelabs/namer/step_07_c_add_selectedindex",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_07_c_add_selectedindex (profile mode)",
+            "cwd": "flutter-codelabs/namer/step_07_c_add_selectedindex",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_07_c_add_selectedindex (release mode)",
+            "cwd": "flutter-codelabs/namer/step_07_c_add_selectedindex",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_07_d_use_selectedindex",
+            "cwd": "flutter-codelabs/namer/step_07_d_use_selectedindex",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_07_d_use_selectedindex (profile mode)",
+            "cwd": "flutter-codelabs/namer/step_07_d_use_selectedindex",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_07_d_use_selectedindex (release mode)",
+            "cwd": "flutter-codelabs/namer/step_07_d_use_selectedindex",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_07_e_add_layout_builder",
+            "cwd": "flutter-codelabs/namer/step_07_e_add_layout_builder",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_07_e_add_layout_builder (profile mode)",
+            "cwd": "flutter-codelabs/namer/step_07_e_add_layout_builder",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_07_e_add_layout_builder (release mode)",
+            "cwd": "flutter-codelabs/namer/step_07_e_add_layout_builder",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_08",
+            "cwd": "flutter-codelabs/namer/step_08",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_08 (profile mode)",
+            "cwd": "flutter-codelabs/namer/step_08",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_08 (release mode)",
+            "cwd": "flutter-codelabs/namer/step_08",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_01",
+            "cwd": "flutter-codelabs/next-gen-ui/step_01",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_01 (profile mode)",
+            "cwd": "flutter-codelabs/next-gen-ui/step_01",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_01 (release mode)",
+            "cwd": "flutter-codelabs/next-gen-ui/step_01",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_02_a",
+            "cwd": "flutter-codelabs/next-gen-ui/step_02_a",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_02_a (profile mode)",
+            "cwd": "flutter-codelabs/next-gen-ui/step_02_a",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_02_a (release mode)",
+            "cwd": "flutter-codelabs/next-gen-ui/step_02_a",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_02_b",
+            "cwd": "flutter-codelabs/next-gen-ui/step_02_b",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_02_b (profile mode)",
+            "cwd": "flutter-codelabs/next-gen-ui/step_02_b",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_02_b (release mode)",
+            "cwd": "flutter-codelabs/next-gen-ui/step_02_b",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_02_c",
+            "cwd": "flutter-codelabs/next-gen-ui/step_02_c",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_02_c (profile mode)",
+            "cwd": "flutter-codelabs/next-gen-ui/step_02_c",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_02_c (release mode)",
+            "cwd": "flutter-codelabs/next-gen-ui/step_02_c",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_03_a",
+            "cwd": "flutter-codelabs/next-gen-ui/step_03_a",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_03_a (profile mode)",
+            "cwd": "flutter-codelabs/next-gen-ui/step_03_a",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_03_a (release mode)",
+            "cwd": "flutter-codelabs/next-gen-ui/step_03_a",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_03_b",
+            "cwd": "flutter-codelabs/next-gen-ui/step_03_b",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_03_b (profile mode)",
+            "cwd": "flutter-codelabs/next-gen-ui/step_03_b",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_03_b (release mode)",
+            "cwd": "flutter-codelabs/next-gen-ui/step_03_b",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_03_c",
+            "cwd": "flutter-codelabs/next-gen-ui/step_03_c",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_03_c (profile mode)",
+            "cwd": "flutter-codelabs/next-gen-ui/step_03_c",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_03_c (release mode)",
+            "cwd": "flutter-codelabs/next-gen-ui/step_03_c",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_04_a",
+            "cwd": "flutter-codelabs/next-gen-ui/step_04_a",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_04_a (profile mode)",
+            "cwd": "flutter-codelabs/next-gen-ui/step_04_a",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_04_a (release mode)",
+            "cwd": "flutter-codelabs/next-gen-ui/step_04_a",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_04_b",
+            "cwd": "flutter-codelabs/next-gen-ui/step_04_b",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_04_b (profile mode)",
+            "cwd": "flutter-codelabs/next-gen-ui/step_04_b",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_04_b (release mode)",
+            "cwd": "flutter-codelabs/next-gen-ui/step_04_b",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_04_c",
+            "cwd": "flutter-codelabs/next-gen-ui/step_04_c",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_04_c (profile mode)",
+            "cwd": "flutter-codelabs/next-gen-ui/step_04_c",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_04_c (release mode)",
+            "cwd": "flutter-codelabs/next-gen-ui/step_04_c",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_04_d",
+            "cwd": "flutter-codelabs/next-gen-ui/step_04_d",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_04_d (profile mode)",
+            "cwd": "flutter-codelabs/next-gen-ui/step_04_d",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_04_d (release mode)",
+            "cwd": "flutter-codelabs/next-gen-ui/step_04_d",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_04_e",
+            "cwd": "flutter-codelabs/next-gen-ui/step_04_e",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_04_e (profile mode)",
+            "cwd": "flutter-codelabs/next-gen-ui/step_04_e",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_04_e (release mode)",
+            "cwd": "flutter-codelabs/next-gen-ui/step_04_e",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_05_a",
+            "cwd": "flutter-codelabs/next-gen-ui/step_05_a",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_05_a (profile mode)",
+            "cwd": "flutter-codelabs/next-gen-ui/step_05_a",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_05_a (release mode)",
+            "cwd": "flutter-codelabs/next-gen-ui/step_05_a",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_05_b",
+            "cwd": "flutter-codelabs/next-gen-ui/step_05_b",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_05_b (profile mode)",
+            "cwd": "flutter-codelabs/next-gen-ui/step_05_b",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_05_b (release mode)",
+            "cwd": "flutter-codelabs/next-gen-ui/step_05_b",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_06",
+            "cwd": "flutter-codelabs/next-gen-ui/step_06",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_06 (profile mode)",
+            "cwd": "flutter-codelabs/next-gen-ui/step_06",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_06 (release mode)",
+            "cwd": "flutter-codelabs/next-gen-ui/step_06",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_03",
+            "cwd": "flutter-codelabs/testing_codelab/step_03",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_03 (profile mode)",
+            "cwd": "flutter-codelabs/testing_codelab/step_03",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_03 (release mode)",
+            "cwd": "flutter-codelabs/testing_codelab/step_03",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_04",
+            "cwd": "flutter-codelabs/testing_codelab/step_04",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_04 (profile mode)",
+            "cwd": "flutter-codelabs/testing_codelab/step_04",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_04 (release mode)",
+            "cwd": "flutter-codelabs/testing_codelab/step_04",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_05",
+            "cwd": "flutter-codelabs/testing_codelab/step_05",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_05 (profile mode)",
+            "cwd": "flutter-codelabs/testing_codelab/step_05",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_05 (release mode)",
+            "cwd": "flutter-codelabs/testing_codelab/step_05",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_06",
+            "cwd": "flutter-codelabs/testing_codelab/step_06",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_06 (profile mode)",
+            "cwd": "flutter-codelabs/testing_codelab/step_06",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_06 (release mode)",
+            "cwd": "flutter-codelabs/testing_codelab/step_06",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_07",
+            "cwd": "flutter-codelabs/testing_codelab/step_07",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_07 (profile mode)",
+            "cwd": "flutter-codelabs/testing_codelab/step_07",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_07 (release mode)",
+            "cwd": "flutter-codelabs/testing_codelab/step_07",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_08",
+            "cwd": "flutter-codelabs/testing_codelab/step_08",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_08 (profile mode)",
+            "cwd": "flutter-codelabs/testing_codelab/step_08",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_08 (release mode)",
+            "cwd": "flutter-codelabs/testing_codelab/step_08",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "claat_export_images",
+            "cwd": "flutter-codelabs/tooling/claat_export_images",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "codelab_rebuild",
+            "cwd": "flutter-codelabs/tooling/codelab_rebuild",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_03",
+            "cwd": "flutter-codelabs/webview_flutter/step_03",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_03 (profile mode)",
+            "cwd": "flutter-codelabs/webview_flutter/step_03",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_03 (release mode)",
+            "cwd": "flutter-codelabs/webview_flutter/step_03",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_04",
+            "cwd": "flutter-codelabs/webview_flutter/step_04",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_04 (profile mode)",
+            "cwd": "flutter-codelabs/webview_flutter/step_04",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_04 (release mode)",
+            "cwd": "flutter-codelabs/webview_flutter/step_04",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_05",
+            "cwd": "flutter-codelabs/webview_flutter/step_05",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_05 (profile mode)",
+            "cwd": "flutter-codelabs/webview_flutter/step_05",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_05 (release mode)",
+            "cwd": "flutter-codelabs/webview_flutter/step_05",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_06",
+            "cwd": "flutter-codelabs/webview_flutter/step_06",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_06 (profile mode)",
+            "cwd": "flutter-codelabs/webview_flutter/step_06",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_06 (release mode)",
+            "cwd": "flutter-codelabs/webview_flutter/step_06",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_07",
+            "cwd": "flutter-codelabs/webview_flutter/step_07",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_07 (profile mode)",
+            "cwd": "flutter-codelabs/webview_flutter/step_07",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_07 (release mode)",
+            "cwd": "flutter-codelabs/webview_flutter/step_07",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_08",
+            "cwd": "flutter-codelabs/webview_flutter/step_08",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_08 (profile mode)",
+            "cwd": "flutter-codelabs/webview_flutter/step_08",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_08 (release mode)",
+            "cwd": "flutter-codelabs/webview_flutter/step_08",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_09",
+            "cwd": "flutter-codelabs/webview_flutter/step_09",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_09 (profile mode)",
+            "cwd": "flutter-codelabs/webview_flutter/step_09",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_09 (release mode)",
+            "cwd": "flutter-codelabs/webview_flutter/step_09",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_10",
+            "cwd": "flutter-codelabs/webview_flutter/step_10",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_10 (profile mode)",
+            "cwd": "flutter-codelabs/webview_flutter/step_10",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_10 (release mode)",
+            "cwd": "flutter-codelabs/webview_flutter/step_10",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_11",
+            "cwd": "flutter-codelabs/webview_flutter/step_11",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_11 (profile mode)",
+            "cwd": "flutter-codelabs/webview_flutter/step_11",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_11 (release mode)",
+            "cwd": "flutter-codelabs/webview_flutter/step_11",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "step_12",
+            "cwd": "flutter-codelabs/webview_flutter/step_12",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "step_12 (profile mode)",
+            "cwd": "flutter-codelabs/webview_flutter/step_12",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "step_12 (release mode)",
+            "cwd": "flutter-codelabs/webview_flutter/step_12",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "yt_cors_proxy",
+            "cwd": "flutter-codelabs/adaptive_app/step_06/yt_cors_proxy",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "yt_cors_proxy",
+            "cwd": "flutter-codelabs/adaptive_app/step_07/yt_cors_proxy",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "example",
+            "cwd": "flutter-codelabs/ffigen_codelab/step_03/example",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "example (profile mode)",
+            "cwd": "flutter-codelabs/ffigen_codelab/step_03/example",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "example (release mode)",
+            "cwd": "flutter-codelabs/ffigen_codelab/step_03/example",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "example",
+            "cwd": "flutter-codelabs/ffigen_codelab/step_05/example",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "example (profile mode)",
+            "cwd": "flutter-codelabs/ffigen_codelab/step_05/example",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "example (release mode)",
+            "cwd": "flutter-codelabs/ffigen_codelab/step_05/example",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "example",
+            "cwd": "flutter-codelabs/ffigen_codelab/step_06/example",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "example (profile mode)",
+            "cwd": "flutter-codelabs/ffigen_codelab/step_06/example",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "example (release mode)",
+            "cwd": "flutter-codelabs/ffigen_codelab/step_06/example",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "example",
+            "cwd": "flutter-codelabs/ffigen_codelab/step_07/example",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "example (profile mode)",
+            "cwd": "flutter-codelabs/ffigen_codelab/step_07/example",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "example (release mode)",
+            "cwd": "flutter-codelabs/ffigen_codelab/step_07/example",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "app",
+            "cwd": "flutter-codelabs/in_app_purchases/complete/app",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "app (profile mode)",
+            "cwd": "flutter-codelabs/in_app_purchases/complete/app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "app (release mode)",
+            "cwd": "flutter-codelabs/in_app_purchases/complete/app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "dart-backend",
+            "cwd": "flutter-codelabs/in_app_purchases/complete/dart-backend",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "app",
+            "cwd": "flutter-codelabs/in_app_purchases/step_00/app",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "app (profile mode)",
+            "cwd": "flutter-codelabs/in_app_purchases/step_00/app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "app (release mode)",
+            "cwd": "flutter-codelabs/in_app_purchases/step_00/app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "dart-backend",
+            "cwd": "flutter-codelabs/in_app_purchases/step_00/dart-backend",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "app",
+            "cwd": "flutter-codelabs/in_app_purchases/step_07/app",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "app (profile mode)",
+            "cwd": "flutter-codelabs/in_app_purchases/step_07/app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "app (release mode)",
+            "cwd": "flutter-codelabs/in_app_purchases/step_07/app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "dart-backend",
+            "cwd": "flutter-codelabs/in_app_purchases/step_07/dart-backend",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "app",
+            "cwd": "flutter-codelabs/in_app_purchases/step_08/app",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "app (profile mode)",
+            "cwd": "flutter-codelabs/in_app_purchases/step_08/app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "app (release mode)",
+            "cwd": "flutter-codelabs/in_app_purchases/step_08/app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "dart-backend",
+            "cwd": "flutter-codelabs/in_app_purchases/step_08/dart-backend",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "app",
+            "cwd": "flutter-codelabs/in_app_purchases/step_09/app",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "app (profile mode)",
+            "cwd": "flutter-codelabs/in_app_purchases/step_09/app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "app (release mode)",
+            "cwd": "flutter-codelabs/in_app_purchases/step_09/app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "dart-backend",
+            "cwd": "flutter-codelabs/in_app_purchases/step_09/dart-backend",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "app",
+            "cwd": "flutter-codelabs/in_app_purchases/step_10/app",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "app (profile mode)",
+            "cwd": "flutter-codelabs/in_app_purchases/step_10/app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "app (release mode)",
+            "cwd": "flutter-codelabs/in_app_purchases/step_10/app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "dart-backend",
+            "cwd": "flutter-codelabs/in_app_purchases/step_10/dart-backend",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "frontend",
+            "cwd": "flutter-codelabs/tfagents-flutter/finished/frontend",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "frontend (profile mode)",
+            "cwd": "flutter-codelabs/tfagents-flutter/finished/frontend",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "frontend (release mode)",
+            "cwd": "flutter-codelabs/tfagents-flutter/finished/frontend",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "frontend",
+            "cwd": "flutter-codelabs/tfagents-flutter/step0/frontend",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "frontend (profile mode)",
+            "cwd": "flutter-codelabs/tfagents-flutter/step0/frontend",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "frontend (release mode)",
+            "cwd": "flutter-codelabs/tfagents-flutter/step0/frontend",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "frontend",
+            "cwd": "flutter-codelabs/tfagents-flutter/step1/frontend",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "frontend (profile mode)",
+            "cwd": "flutter-codelabs/tfagents-flutter/step1/frontend",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "frontend (release mode)",
+            "cwd": "flutter-codelabs/tfagents-flutter/step1/frontend",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "frontend",
+            "cwd": "flutter-codelabs/tfagents-flutter/step2/frontend",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "frontend (profile mode)",
+            "cwd": "flutter-codelabs/tfagents-flutter/step2/frontend",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "frontend (release mode)",
+            "cwd": "flutter-codelabs/tfagents-flutter/step2/frontend",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "frontend",
+            "cwd": "flutter-codelabs/tfagents-flutter/step3/frontend",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "frontend (profile mode)",
+            "cwd": "flutter-codelabs/tfagents-flutter/step3/frontend",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "frontend (release mode)",
+            "cwd": "flutter-codelabs/tfagents-flutter/step3/frontend",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "frontend",
+            "cwd": "flutter-codelabs/tfagents-flutter/step4/frontend",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "frontend (profile mode)",
+            "cwd": "flutter-codelabs/tfagents-flutter/step4/frontend",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "frontend (release mode)",
+            "cwd": "flutter-codelabs/tfagents-flutter/step4/frontend",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "frontend",
+            "cwd": "flutter-codelabs/tfagents-flutter/step5/frontend",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "frontend (profile mode)",
+            "cwd": "flutter-codelabs/tfagents-flutter/step5/frontend",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "frontend (release mode)",
+            "cwd": "flutter-codelabs/tfagents-flutter/step5/frontend",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "frontend",
+            "cwd": "flutter-codelabs/tfagents-flutter/step6/frontend",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "frontend (profile mode)",
+            "cwd": "flutter-codelabs/tfagents-flutter/step6/frontend",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "frontend (release mode)",
+            "cwd": "flutter-codelabs/tfagents-flutter/step6/frontend",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "frontend",
+            "cwd": "flutter-codelabs/tfrs-flutter/finished/frontend",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "frontend (profile mode)",
+            "cwd": "flutter-codelabs/tfrs-flutter/finished/frontend",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "frontend (release mode)",
+            "cwd": "flutter-codelabs/tfrs-flutter/finished/frontend",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "frontend",
+            "cwd": "flutter-codelabs/tfrs-flutter/step0/frontend",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "frontend (profile mode)",
+            "cwd": "flutter-codelabs/tfrs-flutter/step0/frontend",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "frontend (release mode)",
+            "cwd": "flutter-codelabs/tfrs-flutter/step0/frontend",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "frontend",
+            "cwd": "flutter-codelabs/tfrs-flutter/step1/frontend",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "frontend (profile mode)",
+            "cwd": "flutter-codelabs/tfrs-flutter/step1/frontend",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "frontend (release mode)",
+            "cwd": "flutter-codelabs/tfrs-flutter/step1/frontend",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "frontend",
+            "cwd": "flutter-codelabs/tfrs-flutter/step2/frontend",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "frontend (profile mode)",
+            "cwd": "flutter-codelabs/tfrs-flutter/step2/frontend",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "frontend (release mode)",
+            "cwd": "flutter-codelabs/tfrs-flutter/step2/frontend",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "frontend",
+            "cwd": "flutter-codelabs/tfrs-flutter/step3/frontend",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "frontend (profile mode)",
+            "cwd": "flutter-codelabs/tfrs-flutter/step3/frontend",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "frontend (release mode)",
+            "cwd": "flutter-codelabs/tfrs-flutter/step3/frontend",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "frontend",
+            "cwd": "flutter-codelabs/tfrs-flutter/step4/frontend",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "frontend (profile mode)",
+            "cwd": "flutter-codelabs/tfrs-flutter/step4/frontend",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "frontend (release mode)",
+            "cwd": "flutter-codelabs/tfrs-flutter/step4/frontend",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "frontend",
+            "cwd": "flutter-codelabs/tfrs-flutter/step5/frontend",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "frontend (profile mode)",
+            "cwd": "flutter-codelabs/tfrs-flutter/step5/frontend",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "frontend (release mode)",
+            "cwd": "flutter-codelabs/tfrs-flutter/step5/frontend",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "finished",
+            "cwd": "flutter-codelabs/tfserving-flutter/codelab2/finished",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "finished (profile mode)",
+            "cwd": "flutter-codelabs/tfserving-flutter/codelab2/finished",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "finished (release mode)",
+            "cwd": "flutter-codelabs/tfserving-flutter/codelab2/finished",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "starter",
+            "cwd": "flutter-codelabs/tfserving-flutter/codelab2/starter",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "starter (profile mode)",
+            "cwd": "flutter-codelabs/tfserving-flutter/codelab2/starter",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "starter (release mode)",
+            "cwd": "flutter-codelabs/tfserving-flutter/codelab2/starter",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
