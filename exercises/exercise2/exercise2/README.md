@@ -24,3 +24,8 @@ Web refer: https://docs.flutter.dev/platform-integration/web/building
 
 <img width="497" alt="image" src="https://github.com/lydiavitani1994/INFO6350_002138509_YumengHuang/assets/113256029/ea121f09-1202-48b8-84a1-ae6e2d1230da">
 <img width="497" alt="image" src="https://github.com/lydiavitani1994/INFO6350_002138509_YumengHuang/assets/113256029/85fe8f0b-a124-42b8-9ad9-7c144307947d">
+
+### iOS
+<img width="387" alt="image" src="https://github.com/lydiavitani1994/INFO6350_002138509_YumengHuang/assets/113256029/1b7d3e75-33b2-4140-b9e0-01ac21a22eb7">
+
+<img width="387" alt="image" src="https://github.com/lydiavitani1994/INFO6350_002138509_YumengHuang/assets/113256029/a258a2c6-d857-4e8c-82cf-ab1ba2d46e35">
