@@ -98,7 +98,7 @@ class _ItemListWidgetState extends State<ItemListWidget> {
                 },
                 text: 'Log out',
                 options: FFButtonOptions(
-                  height: 0.0,
+                  height: 40.0,
                   padding: EdgeInsetsDirectional.fromSTEB(5.0, 5.0, 5.0, 5.0),
                   iconPadding:
                       EdgeInsetsDirectional.fromSTEB(0.0, 0.0, 0.0, 0.0),
@@ -108,8 +108,10 @@ class _ItemListWidgetState extends State<ItemListWidget> {
                         color: Color(0xDD218294),
                         fontWeight: FontWeight.w600,
                       ),
+                  elevation: 3.0,
                   borderSide: BorderSide(
                     color: Colors.transparent,
+                    width: 1.0,
                   ),
                   borderRadius: BorderRadius.circular(8.0),
                 ),
